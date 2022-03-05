@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Dancing+Script:wght@400;700&family=Mochiy+Pop+P+One&family=Pacifico&family=Qwitcher+Grypen:wght@700&family=Source+Serif+Pro:ital,wght@0,300;1,200;1,300;1,600&display=swap');
+#k1{
+    font-family: 'Pacifico', cursive;
+    margin-left: 250px;
+    font-size: 30px;
+}
+#k2{
+    font-family: 'Lobster Two', cursive;
+    margin-left: 300px;
+
+}
+#k3{
+    color: hotpink;
+}
+#k4{
+    margin-left: 20px;
+    color: hotpink;
+    font-size: 25px;
+    margin-top: -7px;
+}
+#k5{
+    margin-left: 20px;
+    color: black;
+    font-size: 25px;
+    font-family: 'Lobster Two', cursive;;
+}
+#k5:hover{
+    color: hotpink;
+}
+#k6{
+    color: black;
+    font-family: 'Dongle', sans-serif;
+    margin-left: 100px;
+}
+#navbarDropdown{
+    margin-top: -1px;
+    position: sticky;
+    top: 0px;
+}
+
+
+#k7:hover{
+    color: hotpink;
+}
+#k8{
+    margin-top: -30px;
+    margin-left: 110px;
+}
+#k8:hover{
+    color: hotpink;
+}
+#k9{
+    margin-top: -300px;
+    margin-left: -750px;
+   color: black;
+   font-size: 70px;
+   font-family: 'Pacifico', cursive;
+    
+}
+#k10{
+    margin-top: -15px;
+    margin-left: -750px;
+    color: black;
+    font-size: 35px;
+    font-family: 'Pacifico', cursive;
+}
+#h1{
+    margin-top: -15px;
+    margin-left: -750px;
+    background-color: rgb(241, 12, 127);
+    color: white;
+    border-radius: 6px;
+    height: 40px;
+    width: 100px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    border-color: hotpink;
+    
+}
+#h2{
+    margin-top: 50px;
+    margin-left: 0px;
+    text-align: center;
+    color: black;
+    font-family: 'Pacifico', cursive;
+}
+#h3{
+    height: 4px;
+    width: 25%;
+    color: rgb(0, 0, 0);
+    margin-left: 570px;
+}
+#h5{
+    height: 100px;
+    width: 200px;
+    color: rgb(17, 17, 17);
+    margin-top: 30px;
+    margin-left: 160px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+}
+#h6{
+    height: 100px;
+    width: 200px;
+    color:cornflowerblue;
+    margin-top: -5px;
+    margin-left: 550px;
+    font-family:'pacifico',cursive;
+}
+#h7{
+    height: 200px;
+    width: 500px;
+    color: black;
+    margin-top: -15px;
+    margin-left: 350px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#h8{
+    margin-top: -490px;
+    margin-left: 800px;
+}
+#j2{
+    height: 500px;
+}
+#h9{
+    margin-top: -10px;
+    margin-left: 700px;
+}
+#l1{
+    margin-top: -10px;
+    margin-left: 15px;
+}
+#l2{
+    margin-top: -50px;
+    margin-left: 15px;
+}
+#l3{
+    margin-top: 250px;
+    margin-left: -108px;
+}
+#g1{
+    margin-top: 20px;
+    margin-left: 300px;
+    color: black;
+    font-family: 'Squada One', cursive;
+}
+#g1:hover{
+    color: hotpink;
+}
+#g2{
+    margin-top: -27px;
+    margin-left: 520px;
+    color: black;
+    font-family: 'Squada One', cursive;
+}
+#g2:hover{
+    color: hotpink;
+}
+#g3{
+    margin-top: -27px;
+    margin-left: 412px;
+    font-family: 'Squada One', cursive;
+}
+#g3:hover{
+    color: hotpink;
+}
+#g4{
+    margin-top: -27px;
+    margin-left: 890px;
+    font-family: 'Squada One', cursive;
+
+}
+#g4:hover{
+    color: hotpink;
+}
+#g5{
+    margin-top: -27px;
+    margin-left: 1000px;
+    font-family: 'Squada One', cursive;
+}
+#g5:hover{
+    color: hotpink;
+
+}
+#g6{
+    margin-top: -27px;
+    margin-left: 1152px;
+    font-family: 'Squada One', cursive;
+}
+#g6:hover{
+    color: hotpink;
+}
+#g7{
+    margin-left: 20px;
+    margin-top: 21px;
+    text-align: center;
+    color: black;
+}
+#a1{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    height: 600px;
+}
+#a2{
+    margin-left: 242px;
+    margin-top: -877px;
+    height: 230px;
+    width: 200px;
+}
+#a3{
+    margin-left: 70px;
+    margin-top: -877px;
+    height: 230px;
+    width: 200px;
+}
+#a4{
+    margin-left: 70px;
+    margin-top: -877px;
+    height: 230px;
+    width: 200px;
+}
+#a5{
+    margin-left: 70px;
+    margin-top: -877px;
+    height: 230px;
+    width: 200px;
+}
+#a6{
+    margin-left: 242px;
+    margin-top: -390px;
+    height: 230px;
+    width: 200px;
+}
+#a7{
+    margin-left:70px;
+    margin-top: -390px;
+    height: 230px;
+    width: 200px;
+}
+#a8{
+    margin-left: 70px;
+    margin-top: -390px;
+    height: 230px;
+    width: 200px;
+}
+#a9{
+    margin-left: 70px;
+    margin-top: -390px;
+    height: 230px;
+    width: 200px;
+}

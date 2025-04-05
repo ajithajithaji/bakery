@@ -11,6 +11,10 @@
 }
 #k3{
     color: hotpink;
+<<<<<<< Updated upstream
+=======
+    height : 123px;
+>>>>>>> Stashed changes
 }
 #k4{
     margin-left: 20px;
@@ -26,9 +30,10 @@
 }
 #k5:hover{
     color: hotpink;
+   
 }
 #k6{
-    color: black;
+    color: hotpink;
     font-family: 'Dongle', sans-serif;
     margin-left: 100px;
 }
